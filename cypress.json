@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://dev.iguatemi365.com/",
+    "ignoreTestFiles": "**/examples/*",
+    "viewportWidth": 1366,
+    "viewportHeight": 730
+}
+
